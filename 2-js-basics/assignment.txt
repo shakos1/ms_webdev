@@ -1,0 +1,13 @@
+Data types needed for shopping:
+
+Grocery names -> strings
+Using multiple characters (string) for each product to describe its name.
+
+Grocery amounts -> int
+Using numbers (integers) to describe the amount of each product.
+
+Price -> float
+Using a number with a floating point (float) to describe the price of each product.
+
+Do I have a shopping cart? -> Boolean
+Using a true/false variable to describe if I have a shopping cart to know if I should carry groceries on me with bags.
